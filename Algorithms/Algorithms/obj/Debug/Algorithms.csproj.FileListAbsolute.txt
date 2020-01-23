@@ -1,0 +1,6 @@
+C:\Users\Agoston\source\repos\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Agoston\source\repos\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Agoston\source\repos\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Agoston\source\repos\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\Agoston\source\repos\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Agoston\source\repos\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
